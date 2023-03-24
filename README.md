@@ -3,7 +3,7 @@
 Obtene las diferentes cotizaciones del dólar, euro, reservas, evolucion y riesgo pais.
 
 ## Endpoints
-URL: https://api-dolar-argentina.herokuapp.com/
+URL: Pendiente
 
 | Metodo | Endpoint | Descripcion |
 | ------ | ------ | ------ |
@@ -123,3 +123,4 @@ _La informacion es obtenida del sitio DolarSi, por lo cual tambien se puede obte
 
 _Si encontras algun error o tenes alguna sugerencia, podes abrir un Issue o un Pull Request para contribuir._
 
+Libreria original por Castrogiovanni20 y re-worked por xAtsuUC
