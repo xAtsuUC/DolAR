@@ -110,3 +110,5 @@ documentation/
 # Reference
 compiled/
 old/
+tests_p/
+build/
